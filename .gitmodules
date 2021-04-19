@@ -1,0 +1,3 @@
+[submodule "ohshitgit"]
+	path = ohshitgit
+	url = https://github.com/whatthefoo/ohshitgit
