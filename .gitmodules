@@ -1,3 +1,6 @@
 [submodule "ohshitgit"]
 	path = ohshitgit
 	url = https://github.com/whatthefoo/ohshitgit
+[submodule "beardfondle"]
+	path = beardfondle
+	url = https://github.com/MrTarantula/beardfondle
